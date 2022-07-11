@@ -3,7 +3,7 @@ Working with the New York City Leading Causes of Death dataset from the NYC Open
 
 # Some Concepts
 ### Association rule mining?
-The purpose behind association rule mining is to find associations and relationships between items within a large dataset. These association rules can then be used to discover and possibly explain patterns/trends in data. There are two parts to an association rule: an antecedent and a consequent. The antecedent is some item found within a dataset and the consequent is another item found with the antecedent.
+The purpose behind association rule mining is to find associations and relationships between items within a large dataset. These association rules can then be used to discover and possibly explain patterns/trends in data. There are two parts to an association rule: an antecedent and a consequent. The antecedent is some item found within a dataset and the consequent is another item found alongside the antecedent.
 
 ### What is the Apriori algorithm?
 For the purposes of association rule mining, the apriori algorithm seeks to find the probability that some item A is present given that another item B exists within the same transaction. Essentially, the goal is to extract association rules that show correlations between items in the frequent itemsets to some degree of probability. In the case of this project, two parameters are used to examine association: support and confidence.
