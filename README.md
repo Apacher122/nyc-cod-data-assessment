@@ -1,6 +1,16 @@
 # Assessing New York City Leading Causes of Death
 Working with the New York City Leading Causes of Death dataset from the NYC Open Data website, this project aims to use tha apriori algorithm to extract and assess association rules within the dataset to understand correlations between gender and causes of death.
 
+# What is the Apriori algorithm?
+The goal is to identify frequent itemsets and association rules within a dataset. The main goal is to extract association rules that show correlations between items in the frequent itemsets to some degree of probability. In the case of this project, two parameters are used to examine association: support and confidence.
+ - Support: the percentage of transactions that contain both item A and item B
+ $$Support = \frac{frequency(A,B)}{N}$$
+ - Confidence: the probability that item A and item B would appear in the same transaction
+ $$Confidence = \frac{frequency(A,B)}{frequency(A)}$$
+ 
+ To read more about the Apriori algorithm, see the following documentation from oracle:
+ https://docs.oracle.com/cd/E18283_01/datamine.112/e16808/algo_apriori.htm
+
 # Files
 apriori.py (contains the modified apriori algorithm used)
 utils.py (contains functions used within apriori.py)
