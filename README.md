@@ -27,7 +27,9 @@ Pruning is used within the apriori algorithm to reduce the size of the candidate
 ### Command-line arguments used to produce output.txt:
   bash run.sh new_data.csv 0.02 0.5
 
+
 # Understanding output.txt
+### TW: Death, Suicide, Self-Harm
 The high-confidence association rules suggest that there is
         a strong correlation between being male and self-harm as well as
         females and Alzheimer. What makes this compelling is that this
