@@ -8,7 +8,7 @@ For the purposes of association rule mining, the apriori algorithm seeks to find
  - Confidence: the probability that item A and item B would appear in the same transaction
  $$Confidence = \frac{frequency(A,B)}{frequency(A)}$$
  
- To read more about the Apriori algorithm, see the following documentation from oracle:
+ To read more about the Apriori algorithm, see the following documentation from Oracle:
  https://docs.oracle.com/cd/E18283_01/datamine.112/e16808/algo_apriori.htm
 
 # Files
