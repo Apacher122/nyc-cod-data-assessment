@@ -41,7 +41,7 @@ The high-confidence association rules suggest that there is
         that "men died by suicide 3.88x more than women" in 2020.
  
 ### Sources:
-https://afsp.org/suicide-statistics/
+https://afsp.org/suicide-statistics/  
 https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam
 
 ### Collaborative effort by:
