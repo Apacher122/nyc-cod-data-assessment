@@ -44,17 +44,7 @@ Pruning is used within the apriori algorithm to reduce the size of the candidate
 
 # Understanding output.txt
 ### TW: Death, Suicide, Self-Harm
-The high-confidence association rules suggest that there is
-        a strong correlation between being male and self-harm as well as
-        females and Alzheimer. What makes this compelling is that this
-        supports studies that suggest women are more prone to Alzheimers.
-        However, what is surprising is that intential self-harm seems to be
-        the "popular" case among males in terms of cause of death. In terms
-        of mental health, studies have shown that women tend to use certain
-        methods of self-harm moreso than men, however actual death by 
-        intentional self-harm seems to be more prevalant in men. Upon further 
-        research, the American Foundation for Suicide Prevention determined 
-        that "men died by suicide 3.88x more than women" in 2020.
+The high-confidence association rules suggest that there is a strong correlation between being male and self-harm as well as females and Alzheimers. Our output supports studies that suggest women are more prone to Alzheimers. Moreso, what is surprising is that our output reveals that intential self-harm seems to be the "popular" case among males in terms of cause of death. In terms of mental health, studies have shown that women tend to use certain methods of self-harm moreso than men, however actual death by intentional self-harm seems to be more prevalant in men. Upon further research, the American Foundation for Suicide Prevention determined that "men died by suicide 3.88x more than women" in 2020.
  
 ### Sources:
 https://afsp.org/suicide-statistics/  
