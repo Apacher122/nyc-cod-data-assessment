@@ -29,7 +29,7 @@ run.sh (script to run program)
  1. All the records with value 'All Other Causes' in the 'Leading Cause' column were removed.
  2. All the values in the column 'Sex' were transformed from ['M','F','Male','Female'] to ['Male','Female']
  3. All the rows containing the value 'Not Stated/Unknown' for the column 'Race Ethnicity' were removed.
- 4. Finally, only the columns ['Leading Cause', 'Sex', 'Race Ethnicity'] were kept and the new dataframe is written as new_data in csv format.
+ 4. Finally, only the columns ['Leading Cause', 'Sex', 'Race Ethnicity'] were kept and the new dataframe is written as new_data in csv format.  
  These steps are contained within "data_preprocess.ipynb"
 
 ### Variations to the Apriori Algorithm:
