@@ -63,3 +63,7 @@ https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-
 ### Collaborative effort by:
 Rey Christopher Desales Aparece (rda2126@columbia.edu)  
 Stacy Lai (sl4450@columbia.edu)
+
+# Some tech stuff
+Programming language and version: Python 3
+Operating systems used: MacOS, Linux (Ubuntu) 
