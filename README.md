@@ -12,13 +12,13 @@ For the purposes of association rule mining, the apriori algorithm seeks to find
  https://docs.oracle.com/cd/E18283_01/datamine.112/e16808/algo_apriori.htm
 
 # Files
-apriori.py (contains the modified apriori algorithm used)
-utils.py (contains functions used within apriori.py)
-data_preprocess.upynb (steps for data-preprocessing)
-new_data.csv (integrated dataset)
-output.txt  (our own output)
-dataset.csv (original dataset)
-run.sh (script to run program)
+apriori.py (contains the modified apriori algorithm used)  
+utils.py (contains functions used within apriori.py)  
+data_preprocess.ipynb (steps for data-preprocessing)  
+new_data.csv (integrated dataset)  
+output.txt  (our own output)  
+dataset.csv (original dataset)  
+run.sh (script to run program)  
 
 # Method
 ### The raw data file was pre-processed using the following steps:
