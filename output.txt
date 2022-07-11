@@ -1,0 +1,69 @@
+==Frequent itemsets (min_sup=2.0%)
+['Female'] , 50.16%
+['Male'] , 49.84%
+['Other Race/ Ethnicity'] , 24.35%
+['Hispanic'] , 18.91%
+['Asian and Pacific Islander'] , 18.91%
+['Black Non-Hispanic'] , 16.93%
+['White Non-Hispanic'] , 16.72%
+['Female', 'Other Race/ Ethnicity'] , 12.33%
+['Male', 'Other Race/ Ethnicity'] , 12.02%
+['Diseases of Heart (I00-I09, I11, I13, I20-I51)'] , 9.61%
+['Malignant Neoplasms (Cancer: C00-C97)'] , 9.61%
+['Diabetes Mellitus (E10-E14)'] , 9.61%
+['Influenza (Flu) and Pneumonia (J09-J18)'] , 9.61%
+['Cerebrovascular Disease (Stroke: I60-I69)'] , 9.51%
+['Asian and Pacific Islander', 'Male'] , 9.51%
+['Female', 'Hispanic'] , 9.51%
+['Male', 'Hispanic'] , 9.40%
+['Female', 'Asian and Pacific Islander'] , 9.40%
+['Chronic Lower Respiratory Diseases (J40-J47)'] , 8.57%
+['Female', 'Black Non-Hispanic'] , 8.46%
+['Black Non-Hispanic', 'Male'] , 8.46%
+['White Non-Hispanic', 'Male'] , 8.36%
+['Female', 'White Non-Hispanic'] , 8.36%
+['Essential Hypertension and Renal Diseases (I10, I12)'] , 8.05%
+['Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] , 7.31%
+['Female', 'Diseases of Heart (I00-I09, I11, I13, I20-I51)'] , 4.81%
+['Male', 'Diabetes Mellitus (E10-E14)'] , 4.81%
+['Malignant Neoplasms (Cancer: C00-C97)', 'Male'] , 4.81%
+['Female', 'Malignant Neoplasms (Cancer: C00-C97)'] , 4.81%
+['Male', 'Influenza (Flu) and Pneumonia (J09-J18)'] , 4.81%
+['Female', 'Diabetes Mellitus (E10-E14)'] , 4.81%
+['Female', 'Influenza (Flu) and Pneumonia (J09-J18)'] , 4.81%
+['Diseases of Heart (I00-I09, I11, I13, I20-I51)', 'Male'] , 4.81%
+['Female', 'Cerebrovascular Disease (Stroke: I60-I69)'] , 4.81%
+['Cerebrovascular Disease (Stroke: I60-I69)', 'Male'] , 4.70%
+['Female', 'Essential Hypertension and Renal Diseases (I10, I12)'] , 4.70%
+['Female', 'Chronic Lower Respiratory Diseases (J40-J47)'] , 4.39%
+['Male', 'Chronic Lower Respiratory Diseases (J40-J47)'] , 4.18%
+['Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] , 4.08%
+['Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)', 'Male'] , 4.08%
+["Alzheimer's Disease (G30)"] , 3.66%
+['Human Immunodeficiency Virus Disease (HIV: B20-B24)'] , 3.45%
+['Intentional Self-Harm (Suicide: X60-X84, Y87.0)'] , 3.34%
+['Male', 'Essential Hypertension and Renal Diseases (I10, I12)'] , 3.34%
+['Female', "Alzheimer's Disease (G30)"] , 3.34%
+['Female', 'Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] , 3.24%
+['Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)', 'Male'] , 2.61%
+['Chronic Liver Disease and Cirrhosis (K70, K73)'] , 2.40%
+['Intentional Self-Harm (Suicide: X60-X84, Y87.0)', 'Male'] , 2.19%
+['Non-Hispanic White'] , 2.09%
+['Non-Hispanic Black'] , 2.09%
+['Male', 'Human Immunodeficiency Virus Disease (HIV: B20-B24)'] , 2.09%
+['Other Race/ Ethnicity', 'Influenza (Flu) and Pneumonia (J09-J18)'] , 2.09%
+['Diabetes Mellitus (E10-E14)', 'Other Race/ Ethnicity'] , 2.09%
+['Malignant Neoplasms (Cancer: C00-C97)', 'Other Race/ Ethnicity'] , 2.09%
+['Diseases of Heart (I00-I09, I11, I13, I20-I51)', 'Other Race/ Ethnicity'] , 2.09%
+==High-confidence association rules (min_conf=50.0%)
+["Alzheimer's Disease (G30)"] => ['Female'], (Conf: 91.43%, Supp: 3.34%
+['Intentional Self-Harm (Suicide: X60-X84, Y87.0)'] => ['Male'], (Conf: 65.62%, Supp: 2.19%
+['Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)'] => ['Male'], (Conf: 64.10%, Supp: 2.61%
+['Human Immunodeficiency Virus Disease (HIV: B20-B24)'] => ['Male'], (Conf: 60.61%, Supp: 2.09%
+['Essential Hypertension and Renal Diseases (I10, I12)'] => ['Female'], (Conf: 58.44%, Supp: 4.70%
+['Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)'] => ['Male'], (Conf: 55.71%, Supp: 4.08%
+['Chronic Lower Respiratory Diseases (J40-J47)'] => ['Female'], (Conf: 51.22%, Supp: 4.39%
+['Other Race/ Ethnicity'] => ['Female'], (Conf: 50.64%, Supp: 12.33%
+['Cerebrovascular Disease (Stroke: I60-I69)'] => ['Female'], (Conf: 50.55%, Supp: 4.81%
+['Asian and Pacific Islander'] => ['Male'], (Conf: 50.28%, Supp: 9.51%
+['Hispanic'] => ['Female'], (Conf: 50.28%, Supp: 9.51%
